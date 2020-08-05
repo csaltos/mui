@@ -34,7 +34,7 @@
     "@babel/preset-react": "^7.10.1",
     "@babel/register": "^7.10.1",
     "@babel/standalone": "^7.10.2",
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "angular-mocks": "^1.7.9",
     "array-equal": "^1.0.0",
     "autoprefixer": "^9.8.0",
